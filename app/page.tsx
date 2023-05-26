@@ -29,6 +29,12 @@ export default function Root() {
         <li>
           <Link href="/promiseprops2">Go to Promise Props 2 page</Link>
         </li>
+        <li>
+          <Link href="/jotai1">Go to jotai 1 page</Link>
+        </li>
+        <li>
+          <Link href="/jotai2">Go to jotai 2 page</Link>
+        </li>
       </ul>
     </div>
   );
